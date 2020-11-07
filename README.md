@@ -1,5 +1,5 @@
 # Employee Manifest
-
+![sample gif](./sample.gif)
 ## Description
 Employee manifest is a employee management application that allows the user to view a list of employees. You can then sort the employees by date of birth or alphabetically by last name or you can filter the empoloyees by typing into the search bar.
 
