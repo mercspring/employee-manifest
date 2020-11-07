@@ -1,0 +1,43 @@
+table {
+    width: 80%;
+}
+
+.Table{
+    margin: auto 0;
+    width: 100%;
+    font-family: 'Titillium Web', sans-serif;
+    background-color: #000000;
+
+}
+#table-heading th{
+    border-color: rgba(2,157,187,0.325);
+    color: #a1ecfb;
+}
+.table tbody td{
+    border-top: none;
+    border-bottom: 1px solid rgba(2,157,187,0.325);
+}
+tbody{
+    color: #26dafd;
+}
+
+input[type="text"]{
+    background-color: #000000;
+    border-color: rgba(2,157,187,0.325); 
+    color: #26dafd;
+    font-family: 'Titillium Web', sans-serif;
+}
+input[type="text"]:focus{
+    background-color: #000000;
+    border-color: #a1ecfb;
+    color: #26dafd;
+}
+
+#dob-heading:hover, #name-heading:hover{
+    color: #ffffff;
+}
+#dob-heading, #name-heading{
+    cursor: pointer;
+    transition: color 250ms ease-out;
+    text-shadow: 0 0 4px rgba(172,249,251,0.65);
+}

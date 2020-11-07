@@ -1,0 +1,16 @@
+.jumbotron{
+    font-family: 'Electrolize', sans-serif;
+    color: #a1ecfb;
+
+}
+h1{
+font-weight: bold;
+text-shadow: 0 0 4px rgba(161,236,251,0.65);
+text-transform: uppercase;
+}
+
+body, .Header{
+
+    background-color: #000000 !important;
+    
+}
